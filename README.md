@@ -5,9 +5,6 @@
 Correr la app con npm start\
 La aplicación se abrirá en el browser como: [http://localhost:3000](http://localhost:3000).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### Como loguearse con un usuario y contraseña
 
 La aplicación contiene un archivo json con un array de usuarios en formato json, con sus respectivos nombres de usuarios y passwords. Si ingresa los datos correctos se podrá observar un mensaje de bienvenida, y transcurridos dos segundos será redirigido a: https://dummy.tbxnet.com/${nombreDeUsuario}
